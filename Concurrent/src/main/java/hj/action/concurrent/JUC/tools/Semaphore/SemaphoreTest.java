@@ -1,4 +1,4 @@
-package hj.action.concurrent.JUC.Semaphore;
+package hj.action.concurrent.JUC.tools.Semaphore;
 
 import java.util.Random;
 import java.util.concurrent.Semaphore;

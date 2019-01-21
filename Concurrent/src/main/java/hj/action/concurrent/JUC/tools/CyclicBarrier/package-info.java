@@ -26,4 +26,4 @@
  *
  * @author : hejie
  */
-package hj.action.concurrent.JUC.CyclicBarrier;
+package hj.action.concurrent.JUC.tools.CyclicBarrier;
