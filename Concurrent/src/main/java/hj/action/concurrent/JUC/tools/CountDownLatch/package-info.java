@@ -22,4 +22,4 @@
  *
  * @author : hejie
  */
-package hj.action.concurrent.JUC.CountDownLatch;
+package hj.action.concurrent.JUC.tools.CountDownLatch;

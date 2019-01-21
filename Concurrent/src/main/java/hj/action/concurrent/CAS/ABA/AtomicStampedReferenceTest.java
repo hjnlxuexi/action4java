@@ -11,7 +11,7 @@ import java.util.concurrent.atomic.AtomicStampedReference;
  *
  * @author : hejie
  */
-public class TestAtomicStampedReference {
+public class AtomicStampedReferenceTest {
     private static AtomicInteger ati = new AtomicInteger(100);
     private static AtomicStampedReference<Integer> asr = new AtomicStampedReference<>(100, 1);
 

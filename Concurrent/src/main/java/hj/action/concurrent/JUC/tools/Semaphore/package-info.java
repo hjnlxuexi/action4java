@@ -15,4 +15,4 @@
  *
  * @author : hejie
  */
-package hj.action.concurrent.JUC.Semaphore;
+package hj.action.concurrent.JUC.tools.Semaphore;
