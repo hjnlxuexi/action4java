@@ -1,4 +1,4 @@
-package hj.action.classloader.clazzes;
+package hj.action.classloader.example.clazzes;
 
 /**
  * <p>Title : </p>

@@ -1,4 +1,4 @@
-package hj.action.classloader;
+package hj.action.classloader.example;
 
 /**
  * <p>Title : </p>

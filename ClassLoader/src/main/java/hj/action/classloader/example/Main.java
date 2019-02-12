@@ -1,6 +1,6 @@
-package hj.action.classloader;
+package hj.action.classloader.example;
 
-import hj.action.classloader.clazzes.Son;
+import hj.action.classloader.example.clazzes.Son;
 
 /**
  * <p>Title : 判断打印顺序</p>
